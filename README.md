@@ -15,13 +15,13 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-## Table of Contents
+## 📖 Table of Contents
 - [SaaS/Hosted Platforms](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
-## SaaS/Hosted Platforms
+## ☁️ SaaS/Hosted Platforms
 
 | Product | Description | Pricing | Free Tier Limit |
 |---------|-------------|---------|-----------------|
@@ -40,7 +40,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Cato Networks](https://www.catonetworks.com/)** | Converged SASE platform that includes ZTNA as part of its cloud-native networking and security fabric. | Custom | N/A |
 | **[OpenZiti / NetFoundry](https://netfoundry.io/)** | Commercial offering built on the open-source OpenZiti platform for embedded, identity-first zero-trust networking and dark services. | Custom | Up to 10 endpoints |
 
-## Open-Source GitHub Projects
+## 🔓 Open-Source GitHub Projects
 
 - **[Headscale](https://github.com/juanfont/headscale)** [![Stars](https://img.shields.io/github/stars/juanfont/headscale?style=social&color=white)](https://github.com/juanfont/headscale/stargazers)  
   Open-source implementation of the Tailscale control/coordination server...
