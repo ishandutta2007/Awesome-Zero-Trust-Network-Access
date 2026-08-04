@@ -113,3 +113,14 @@ Star the repo if you find it useful!
 
 **Made for security engineers, platform teams, DevOps, CISOs, and zero-trust practitioners.**  
 Let's make secure access more open, identity-centric, and resilient.
+
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007/Awesome-Zero-Trust-Network-Access&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Zero-Trust-Network-Access&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Zero-Trust-Network-Access&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Zero-Trust-Network-Access&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
