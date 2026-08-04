@@ -1,6 +1,6 @@
 # Awesome-Zero-Trust-Network-Access
 
-# Top Zero Trust Network Access (ZTNA) Tools Ecosystem
+## Top Zero Trust Network Access (ZTNA) Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Identity-Aware Access, Software-Defined Perimeter, Mesh Networking & VPN Replacement*  
