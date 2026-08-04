@@ -22,47 +22,22 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Cloudflare Access](https://www.cloudflare.com/zero-trust/products/access/)**  
-  Globally distributed ZTNA service (part of Cloudflare One) that protects internal web apps, SSH, RDP, and private networks with identity-aware policies and clientless options.
-
-- **[Zscaler Private Access (ZPA)](https://www.zscaler.com/products/zscaler-private-access)**  
-  Enterprise ZTNA platform that brokers app-specific access through the Zero Trust Exchange, designed for large-scale VPN replacement and strong segmentation.
-
-- **[Tailscale](https://tailscale.com/)**  
-  WireGuard-based mesh networking with simple identity-aware ACLs, device posture integrations, and excellent developer experience for private connectivity.
-
-- **[NordLayer](https://nordlayer.com/)**  
-  Business-focused ZTNA and secure network access solution from Nord Security, emphasizing ease of deployment for mid-market teams.
-
-- **[Perimeter 81 (Check Point)](https://www.perimeter81.com/)**  
-  Cloud-based zero-trust network access and SASE-oriented platform for secure remote access and network segmentation (acquired by Check Point).
-
-- **[Palo Alto Prisma Access](https://www.paloaltonetworks.com/sase/prisma-access)**  
-  Cloud-delivered ZTNA and SASE platform tightly integrated with Palo Alto security controls, GlobalProtect, and Prisma Access Browser.
-
-- **[Netskope Private Access](https://www.netskope.com/)**  
-  Enterprise ZTNA component of the Netskope One platform, focused on application-level access, data security depth, and SSE convergence.
-
-- **[OpenVPN Cloud / CloudConnexa](https://openvpn.net/cloud-connexa/)**  
-  Cloud-managed ZTNA and secure networking built on OpenVPN technology for private access and site-to-site connectivity.
-
-- **[GoodAccess](https://www.goodaccess.com/)**  
-  User-friendly ZTNA and zero-trust network access platform aimed at mid-market and distributed teams.
-
-- **[Appgate SDP](https://www.appgate.com/)**  
-  Software-defined perimeter pioneer offering enterprise ZTNA with strong identity-centric access and on-premises/cloud deployment options.
-
-- **[Cisco Duo Beyond / Secure Access](https://www.cisco.com/)**  
-  Identity and access capabilities within Cisco’s broader security portfolio for zero-trust remote access and MFA-enforced connectivity.
-
-- **[Teleport](https://goteleport.com/)**  
-  Identity-aware access platform for infrastructure (SSH, Kubernetes, databases, web apps) with short-lived certificates and strong audit capabilities (commercial + open-source core).
-
-- **[Cato Networks](https://www.catonetworks.com/)**  
-  Converged SASE platform that includes ZTNA as part of its cloud-native networking and security fabric.
-
-- **[OpenZiti / NetFoundry](https://netfoundry.io/)**  
-  Commercial offering built on the open-source OpenZiti platform for embedded, identity-first zero-trust networking and dark services.
+| Product | Description | Pricing | Free Tier Limit |
+|---------|-------------|---------|-----------------|
+| **[Cloudflare Access](https://www.cloudflare.com/zero-trust/products/access/)** | Globally distributed ZTNA service (part of Cloudflare One) that protects internal web apps, SSH, RDP, and private networks with identity-aware policies and clientless options. | $7/user/mo | Up to 50 users |
+| **[Zscaler Private Access (ZPA)](https://www.zscaler.com/products/zscaler-private-access)** | Enterprise ZTNA platform that brokers app-specific access through the Zero Trust Exchange, designed for large-scale VPN replacement and strong segmentation. | Custom | N/A |
+| **[Tailscale](https://tailscale.com/)** | WireGuard-based mesh networking with simple identity-aware ACLs, device posture integrations, and excellent developer experience for private connectivity. | $6/user/mo | Up to 3 users, 100 devices |
+| **[NordLayer](https://nordlayer.com/)** | Business-focused ZTNA and secure network access solution from Nord Security, emphasizing ease of deployment for mid-market teams. | From $8/user/mo | N/A |
+| **[Perimeter 81 (Check Point)](https://www.perimeter81.com/)** | Cloud-based zero-trust network access and SASE-oriented platform for secure remote access and network segmentation (acquired by Check Point). | From $8/user/mo | N/A |
+| **[Palo Alto Prisma Access](https://www.paloaltonetworks.com/sase/prisma-access)** | Cloud-delivered ZTNA and SASE platform tightly integrated with Palo Alto security controls, GlobalProtect, and Prisma Access Browser. | Custom | N/A |
+| **[Netskope Private Access](https://www.netskope.com/)** | Enterprise ZTNA component of the Netskope One platform, focused on application-level access, data security depth, and SSE convergence. | Custom | N/A |
+| **[OpenVPN Cloud / CloudConnexa](https://openvpn.net/cloud-connexa/)** | Cloud-managed ZTNA and secure networking built on OpenVPN technology for private access and site-to-site connectivity. | From $3/connection/mo | Up to 3 connections |
+| **[GoodAccess](https://www.goodaccess.com/)** | User-friendly ZTNA and zero-trust network access platform aimed at mid-market and distributed teams. | From $5/user/mo | Up to 100 users (Starter) |
+| **[Appgate SDP](https://www.appgate.com/)** | Software-defined perimeter pioneer offering enterprise ZTNA with strong identity-centric access and on-premises/cloud deployment options. | Custom | N/A |
+| **[Cisco Duo Beyond / Secure Access](https://www.cisco.com/)** | Identity and access capabilities within Cisco’s broader security portfolio for zero-trust remote access and MFA-enforced connectivity. | From $3/user/mo | Up to 10 users (Duo Free) |
+| **[Teleport](https://goteleport.com/)** | Identity-aware access platform for infrastructure (SSH, Kubernetes, databases, web apps) with short-lived certificates and strong audit capabilities (commercial + open-source core). | Custom | Community Edition (Open Source) |
+| **[Cato Networks](https://www.catonetworks.com/)** | Converged SASE platform that includes ZTNA as part of its cloud-native networking and security fabric. | Custom | N/A |
+| **[OpenZiti / NetFoundry](https://netfoundry.io/)** | Commercial offering built on the open-source OpenZiti platform for embedded, identity-first zero-trust networking and dark services. | Custom | Up to 10 endpoints |
 
 ## Open-Source GitHub Projects
 
