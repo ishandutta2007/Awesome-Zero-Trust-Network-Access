@@ -41,35 +41,42 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Open-Source GitHub Projects
 
-- **[OpenZiti](https://openziti.io/)** / [GitHub](https://github.com/openziti/ziti)**  
-  Full open-source (Apache 2.0) zero-trust overlay network. Identity-based, application-embeddable SDKs, outbound-only “dark” services, no open inbound ports. Strong alternative to commercial ZTNA for app-level zero trust.
+- **[Headscale](https://github.com/juanfont/headscale)** [![Stars](https://img.shields.io/github/stars/juanfont/headscale?style=social&color=white)](https://github.com/juanfont/headscale/stargazers)  
+  Open-source implementation of the Tailscale control/coordination server...
 
-- **[NetBird](https://netbird.io/)** / [GitHub](https://github.com/netbirdio/netbird)**  
-  Fully open-source WireGuard-based mesh VPN and ZTNA platform with management UI, SSO, granular ACLs, and self-hosting support. Closest complete open-source alternative to Tailscale.
+- **[Authelia](https://github.com/authelia/authelia)** [![Stars](https://img.shields.io/github/stars/authelia/authelia?style=social&color=white)](https://github.com/authelia/authelia/stargazers)  
+  The Single Sign-On Multi-Factor portal for web apps...
 
-- **[Headscale](https://github.com/juanfont/headscale)**  
-  Open-source implementation of the Tailscale control/coordination server. Allows running official Tailscale clients against a fully self-hosted control plane (BSD-licensed).
+- **[NetBird](https://github.com/netbirdio/netbird)** [![Stars](https://img.shields.io/github/stars/netbirdio/netbird?style=social&color=white)](https://github.com/netbirdio/netbird/stargazers)  
+  Fully open-source WireGuard-based mesh VPN...
 
-- **[Teleport (Community / Open Source)](https://github.com/gravitational/teleport)**  
-  Open-source identity-aware access proxy for SSH, Kubernetes, databases, and web applications with certificate-based auth and audit logging (Apache 2.0 core; advanced features commercial).
+- **[Authentik](https://github.com/goauthentik/authentik)** [![Stars](https://img.shields.io/github/stars/goauthentik/authentik?style=social&color=white)](https://github.com/goauthentik/authentik/stargazers)  
+  The authentication glue you need. Open source Identity Provider...
 
-- **[Pomerium](https://www.pomerium.com/)** / [GitHub](https://github.com/pomerium/pomerium)**  
-  Open-source identity-aware proxy (IAP) that enforces continuous verification for web applications and TCP services based on identity, device, and context.
+- **[Teleport](https://github.com/gravitational/teleport)** [![Stars](https://img.shields.io/github/stars/gravitational/teleport?style=social&color=white)](https://github.com/gravitational/teleport/stargazers)  
+  Open-source identity-aware access proxy...
 
-- **[Netmaker](https://netmaker.io/)** / [GitHub](https://github.com/gravitl/netmaker)**  
-  Open-source WireGuard mesh networking platform with site-to-site routing, relays, and management features for building private overlay networks.
+- **[Nebula](https://github.com/slackhq/nebula)** [![Stars](https://img.shields.io/github/stars/slackhq/nebula?style=social&color=white)](https://github.com/slackhq/nebula/stargazers)  
+  Lightweight, certificate-based overlay networking tool...
 
-- **[Firezone](https://www.firezone.dev/)** / [GitHub](https://github.com/firezone/firezone)**  
-  Open-source WireGuard-based remote access and ZTNA solution with modern UI, SSO, and self-hosting focus.
+- **[ZeroTier](https://github.com/zerotier/ZeroTierOne)** [![Stars](https://img.shields.io/github/stars/zerotier/ZeroTierOne?style=social&color=white)](https://github.com/zerotier/ZeroTierOne/stargazers)  
+  Software-defined networking platform...
 
-- **[Octelium](https://octelium.com/)** / [GitHub](https://github.com/octelium/octelium)**  
-  Next-generation fully open-source, self-hosted unified zero-trust platform that can act as ZTNA, remote-access VPN, API/AI gateway, and BeyondCorp-style access layer.
+- **[Netmaker](https://github.com/gravitl/netmaker)** [![Stars](https://img.shields.io/github/stars/gravitl/netmaker?style=social&color=white)](https://github.com/gravitl/netmaker/stargazers)  
+  Open-source WireGuard mesh networking platform...
 
-- **[Nebula](https://github.com/slackhq/nebula)**  
-  Lightweight, certificate-based overlay networking tool (originally from Slack) for creating scalable, encrypted mesh networks with strong identity controls (MIT).
+- **[Firezone](https://github.com/firezone/firezone)** [![Stars](https://img.shields.io/github/stars/firezone/firezone?style=social&color=white)](https://github.com/firezone/firezone/stargazers)  
+  Open-source WireGuard-based remote access...
 
-- **[ZeroTier](https://www.zerotier.com/)** / open-source components  
-  Software-defined networking platform with open-source clients and self-hostable controller options for virtual L2/L3 networks and flow-based access control.
+- **[Innernet](https://github.com/tonarino/innernet)** [![Stars](https://img.shields.io/github/stars/tonarino/innernet?style=social&color=white)](https://github.com/tonarino/innernet/stargazers)  
+  A private network system that uses WireGuard under the hood...
+
+- **[Pomerium](https://github.com/pomerium/pomerium)** [![Stars](https://img.shields.io/github/stars/pomerium/pomerium?style=social&color=white)](https://github.com/pomerium/pomerium/stargazers)  
+  Open-source identity-aware proxy (IAP)...
+
+- **[OpenZiti](https://github.com/openziti/ziti)** [![Stars](https://img.shields.io/github/stars/openziti/ziti?style=social&color=white)](https://github.com/openziti/ziti/stargazers)  
+  Full open-source (Apache 2.0) zero-trust overlay network...
+
 
 ### Additional Strong Open-Source Options
 
