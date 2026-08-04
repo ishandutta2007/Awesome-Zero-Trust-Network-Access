@@ -1,3 +1,4 @@
+![Banner](assets/banner.svg)
 # Awesome-Zero-Trust-Network-Access
 
 ## Top Zero Trust Network Access (ZTNA) Tools Ecosystem
